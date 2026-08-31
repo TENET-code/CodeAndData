@@ -1,0 +1,6 @@
+base_station_node_id=15
+number_of_repair_units=4
+alpha=1
+beta=1
+number_of_runs=10
+number_of_iterations=300
